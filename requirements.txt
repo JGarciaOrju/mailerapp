@@ -21,3 +21,4 @@ tqdm==4.67.1
 # Necesarios para correr Flask en Render
 flask==3.0.3
 gunicorn==22.0.0
+
